@@ -20,6 +20,9 @@ markdown_extensions:
       user: ugrid-conventions
       repo: ugrid-conventions
 
+extra_css:
+  - css/watermarking.css
+
 theme: readthedocs
 docs_dir: src
 site_dir: _site
