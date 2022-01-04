@@ -1,3 +1,38 @@
+<div class="watermarked">
+<p>
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft  Draft
+</p>
+</div>
+
 # Conformance rules for UGRID Conventions (v1.x)
 
 [TOC]
